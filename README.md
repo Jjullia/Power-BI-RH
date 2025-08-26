@@ -1,1 +1,1 @@
-# Power-BI-RH
+Este é um projeto de Business Intelligence (BI) focado em Recursos Humanos, desenvolvido no Power BI. O objetivo foi criar um dashboard descritivo e interativo para acompanhar indicadores-chave de RH, como o número de funcionários, distribuição por gênero, salário e faltas. Este projeto serve como um portfólio inicial para demonstrar habilidades de análise e visualização de dados.
